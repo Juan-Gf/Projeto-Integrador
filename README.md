@@ -1,14 +1,15 @@
 # Projeto-Integrador
 
-Intuito do projeto, fazer um sitemas de venda no modelo CRUD. 
+## Intuito do projeto é fazer um sitemas de venda no modelo CRUD. 
 
-Data da entrega do primeiro macro esta marcada para 07.10.2019 sendo ele composto por:
-1º Esquemas de como sera as janelas
-	*Cadastro de Cliente
-	*Cadastro de Produto
-	*Cadastro de Vendedor
-	*Tela de Vendas
-	*Tela de Relatorio
+### A data da entrega do primeiro macro esta marcada para 07.10.2019 sendo ele composto por:
+
+#### 1º Esquemas de como sera as janelas
+-[x] Cadastro de Cliente
+-[x] Cadastro de Produto
+-[x] Tela de Venda
+-[x] Tela de Relatorio
+-[x] Controle de Estoque
 
 ![](Documentação/Documentação_1.jpg)
 ![](Documentação/Documentação_2.jpg)
